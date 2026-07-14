@@ -1,28 +1,245 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-14T03:51:09.231Z",
+  "exportedAt": "2026-07-14T03:56:50.419Z",
   "transactions": [
     {
-      "id": "1783961530991",
-      "desc": "daasd",
-      "monto": 2323,
-      "fecha": "2026-07-13",
-      "cat": "sueldo"
+      "id": "bcp-19f1eac75ee987d1",
+      "desc": "Web Cálidda Gas Natural",
+      "monto": 4.8,
+      "fecha": "2026-07-01",
+      "cat": "gas"
     },
     {
-      "id": "1783961536343",
-      "desc": "fsafasf",
-      "monto": 0.04,
-      "fecha": "2026-07-13",
-      "cat": "sueldo"
+      "id": "bcp-19f1ea574839b7b0",
+      "desc": "Enel (Pluz) - Electricidad",
+      "monto": 74,
+      "fecha": "2026-07-01",
+      "cat": "luz"
     },
     {
-      "id": "1783961540471",
-      "desc": "fsadasd",
-      "monto": 2,
-      "fecha": "2026-07-13",
-      "cat": "sueldo"
+      "id": "bcp-19f1ea6432c83530",
+      "desc": "Win Internet",
+      "monto": 10.9,
+      "fecha": "2026-07-01",
+      "cat": "internet_depa"
+    },
+    {
+      "id": "bcp-19f2414afefb4654",
+      "desc": "Al Paso Restaurante 27",
+      "monto": 41,
+      "fecha": "2026-07-02",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f24d9a12de9ca0",
+      "desc": "IZI*Superpet",
+      "monto": 57,
+      "fecha": "2026-07-02",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f2750cb10ea258",
+      "desc": "Pacífico Auto (Seguro, $39.65)",
+      "monto": 134.81,
+      "fecha": "2026-07-03",
+      "cat": "seguro_auto"
+    },
+    {
+      "id": "bcp-19f29052c83cf8b9",
+      "desc": "PedidosYa - Chinawok",
+      "monto": 34.6,
+      "fecha": "2026-07-03",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f29c35079eff5b",
+      "desc": "PedidosYa - Patas Y Col",
+      "monto": 28.8,
+      "fecha": "2026-07-03",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f2ee3f26e9d18b",
+      "desc": "Almacén Cevichera",
+      "monto": 117,
+      "fecha": "2026-07-04",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f2f6bed8e2b871",
+      "desc": "PedidosYa - Market",
+      "monto": 27.3,
+      "fecha": "2026-07-04",
+      "cat": "supermercado"
+    },
+    {
+      "id": "bcp-19f2fbb2e00ef48a",
+      "desc": "MFAG04 General Garzón (Grifo)",
+      "monto": 48.4,
+      "fecha": "2026-07-04",
+      "cat": "gasolina"
+    },
+    {
+      "id": "bcp-19f2fd3d378323ae",
+      "desc": "Google One ($22.45)",
+      "monto": 76.33,
+      "fecha": "2026-07-04",
+      "cat": "google_one"
+    },
+    {
+      "id": "bcp-19f2fdf8338971a4",
+      "desc": "PedidosYa - Market",
+      "monto": 41.34,
+      "fecha": "2026-07-04",
+      "cat": "supermercado"
+    },
+    {
+      "id": "bcp-19f2dadf47f5f362",
+      "desc": "MP*Hermanas Empresarias",
+      "monto": 198.5,
+      "fecha": "2026-07-04",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f34995cae7016f",
+      "desc": "Plaza Vea San Miguel",
+      "monto": 384.89,
+      "fecha": "2026-07-05",
+      "cat": "supermercado"
+    },
+    {
+      "id": "bcp-19f349fbc4c86493",
+      "desc": "PedidosYa - KFC",
+      "monto": 30.1,
+      "fecha": "2026-07-05",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f34a3c119e6c64",
+      "desc": "Apparka Plaza San Miguel",
+      "monto": 5,
+      "fecha": "2026-07-05",
+      "cat": "estacionamiento"
+    },
+    {
+      "id": "bcp-19f391e01317dca5",
+      "desc": "MFA387 Escobedo (Grifo)",
+      "monto": 40.3,
+      "fecha": "2026-07-06",
+      "cat": "gasolina"
+    },
+    {
+      "id": "bcp-19f3d972987af478",
+      "desc": "IZI*Bocasion Torre Begoni",
+      "monto": 14,
+      "fecha": "2026-07-07",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f3f3e04028f242",
+      "desc": "Rappi ($11.31)",
+      "monto": 38.45,
+      "fecha": "2026-07-07",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f42b7f8a83ca31",
+      "desc": "IZI*Bocasion Torre Begoni",
+      "monto": 14,
+      "fecha": "2026-07-08",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f42f171fb4692f",
+      "desc": "Disney Plus ($20.84)",
+      "monto": 70.86,
+      "fecha": "2026-07-08",
+      "cat": "disney"
+    },
+    {
+      "id": "bcp-19f4418c2d3baa3c",
+      "desc": "PedidosYa - Chifa Luna",
+      "monto": 28.2,
+      "fecha": "2026-07-08",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f480f8c6b6ac72",
+      "desc": "Al Paso Restaurante 27",
+      "monto": 42,
+      "fecha": "2026-07-09",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f4815baeb086d7",
+      "desc": "Oxxo Costa Rica",
+      "monto": 6.5,
+      "fecha": "2026-07-09",
+      "cat": "snacks"
+    },
+    {
+      "id": "bcp-19f48f234295c4ce",
+      "desc": "Anthropic Claude Sub ($23.60)",
+      "monto": 80.24,
+      "fecha": "2026-07-09",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f49c4185dfa3e7",
+      "desc": "VM*Bodanza Julio",
+      "monto": 1320,
+      "fecha": "2026-07-09",
+      "cat": "boda"
+    },
+    {
+      "id": "bcp-19f4c305753249bd",
+      "desc": "PedidosYa - Metro Persh",
+      "monto": 56.7,
+      "fecha": "2026-07-10",
+      "cat": "supermercado"
+    },
+    {
+      "id": "bcp-19f4e678436b7160",
+      "desc": "Plin - Juan Francisco Cam",
+      "monto": 100,
+      "fecha": "2026-07-10",
+      "cat": "transf_terceros"
+    },
+    {
+      "id": "bcp-19f57550555ab36d",
+      "desc": "PedidosYa - Villa Chick",
+      "monto": 93.5,
+      "fecha": "2026-07-12",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f57d69f79b7913",
+      "desc": "Rappi ($9.70)",
+      "monto": 32.98,
+      "fecha": "2026-07-12",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f5889471929bda",
+      "desc": "Es Huiracocha",
+      "monto": 158.01,
+      "fecha": "2026-07-12",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f589af8185e987",
+      "desc": "Superm Metro San Felipe",
+      "monto": 101.88,
+      "fecha": "2026-07-12",
+      "cat": "supermercado"
+    },
+    {
+      "id": "bcp-19f593b137d551bf",
+      "desc": "MP*Dropthelabel",
+      "monto": 217.8,
+      "fecha": "2026-07-12",
+      "cat": "gastos_varios"
     }
   ],
   "patrimonio": [],
