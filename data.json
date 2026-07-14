@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-14T20:31:54.967Z",
+  "exportedAt": "2026-07-14T20:38:11.491Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -373,6 +373,48 @@
       "monto": 13107,
       "fecha": "2026-07-14",
       "cat": "gratificacion"
+    },
+    {
+      "id": "bcp-19f5c3-yape-julia",
+      "desc": "Yapeo a Julia Aza*",
+      "monto": 40,
+      "fecha": "2026-07-13",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f5c8d5e9ce355b",
+      "desc": "IZI*Bocasion Torre Begoni",
+      "monto": 14,
+      "fecha": "2026-07-13",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f5e3ae4c11d2ef",
+      "desc": "Rappi ($17.11)",
+      "monto": 58.17,
+      "fecha": "2026-07-13",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "xiaomi-5260713225748735",
+      "desc": "Xiaomi Robot Vacuum X20+ White (Mi.com)",
+      "monto": 1139.76,
+      "fecha": "2026-07-13",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f61f2c241ea22f",
+      "desc": "Al Paso Restaurante 27",
+      "monto": 40,
+      "fecha": "2026-07-14",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f61a5972f5eec0",
+      "desc": "Win Internet",
+      "monto": 189.13,
+      "fecha": "2026-07-14",
+      "cat": "internet_depa"
     }
   ],
   "patrimonio": [],
