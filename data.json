@@ -1,1 +1,30 @@
-{}
+{
+  "app": "presupuesto-personal-hernan",
+  "version": 1,
+  "exportedAt": "2026-07-14T03:51:09.231Z",
+  "transactions": [
+    {
+      "id": "1783961530991",
+      "desc": "daasd",
+      "monto": 2323,
+      "fecha": "2026-07-13",
+      "cat": "sueldo"
+    },
+    {
+      "id": "1783961536343",
+      "desc": "fsafasf",
+      "monto": 0.04,
+      "fecha": "2026-07-13",
+      "cat": "sueldo"
+    },
+    {
+      "id": "1783961540471",
+      "desc": "fsadasd",
+      "monto": 2,
+      "fecha": "2026-07-13",
+      "cat": "sueldo"
+    }
+  ],
+  "patrimonio": [],
+  "budgets": {}
+}
