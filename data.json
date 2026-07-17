@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-17T17:38:09.480Z",
+  "exportedAt": "2026-07-17T17:47:29.248Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -415,6 +415,83 @@
       "monto": 189.13,
       "fecha": "2026-07-14",
       "cat": "internet_depa"
+    },
+    {
+      "id": "bcp-19f5c3bbb92e9cb2",
+      "desc": "Yapeo S/40 - Julia Aza*",
+      "monto": 40,
+      "fecha": "2026-07-13",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f6371cf021f8ec",
+      "desc": "Pago tarjeta propia BCP",
+      "monto": 8864.92,
+      "fecha": "2026-07-14",
+      "cat": "pago_tarjetas"
+    },
+    {
+      "id": "bcp-19f63721c0e2e941",
+      "desc": "Pago tarjeta propia BCP (USD $209.26)",
+      "monto": 711.48,
+      "fecha": "2026-07-14",
+      "cat": "pago_tarjetas"
+    },
+    {
+      "id": "bcp-19f62c1371a1fad0",
+      "desc": "PLIN-Josue Melquisedec",
+      "monto": 50,
+      "fecha": "2026-07-14",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f653e773d415a4",
+      "desc": "UNICEF Recurrente",
+      "monto": 50,
+      "fecha": "2026-07-15",
+      "cat": "donaciones"
+    },
+    {
+      "id": "bcp-19f6664034242bfb",
+      "desc": "Vendomatica",
+      "monto": 2.5,
+      "fecha": "2026-07-15",
+      "cat": "snacks"
+    },
+    {
+      "id": "bcp-19f67a6053b2c8e0",
+      "desc": "PLIN-Marco Alonso Barre",
+      "monto": 59.7,
+      "fecha": "2026-07-15",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f6904c3991c3ca",
+      "desc": "Yapeo S/100 - Allison Del*",
+      "monto": 100,
+      "fecha": "2026-07-15",
+      "cat": "boda"
+    },
+    {
+      "id": "bcp-19f6a3dfc6237f16",
+      "desc": "Smart Fit Peru",
+      "monto": 48.26,
+      "fecha": "2026-07-16",
+      "cat": "gym"
+    },
+    {
+      "id": "bcp-19f6a3f696938c5a",
+      "desc": "Smart Fit Peru",
+      "monto": 111.38,
+      "fecha": "2026-07-16",
+      "cat": "gym"
+    },
+    {
+      "id": "bcp-19f6c19055d9c62e",
+      "desc": "Al Paso Restaurante 27",
+      "monto": 52,
+      "fecha": "2026-07-16",
+      "cat": "restaurantes"
     }
   ],
   "patrimonio": [],
