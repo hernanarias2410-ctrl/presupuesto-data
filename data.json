@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-25T16:22:38.258Z",
+  "exportedAt": "2026-07-25T20:12:02.554Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -492,6 +492,202 @@
       "monto": 52,
       "fecha": "2026-07-16",
       "cat": "restaurantes"
+    },
+    {
+      "id": "yape-19f6904c3991c3ca",
+      "desc": "Yape - Allison Del",
+      "monto": 100,
+      "fecha": "2026-07-15",
+      "cat": "boda"
+    },
+    {
+      "id": "bcp-19f7307086529da1",
+      "desc": "Edo Sushi Bar",
+      "monto": 141,
+      "fecha": "2026-07-17",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f731c6890a9b6c",
+      "desc": "La Rambla",
+      "monto": 6,
+      "fecha": "2026-07-17",
+      "cat": "estacionamiento"
+    },
+    {
+      "id": "bcp-19f776a6168d1044",
+      "desc": "PedidosYa - Market",
+      "monto": 27.4,
+      "fecha": "2026-07-18",
+      "cat": "supermercado"
+    },
+    {
+      "id": "bcp-19f7c6b9fccf8c72",
+      "desc": "La Escapada",
+      "monto": 28,
+      "fecha": "2026-07-19",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f80a7d481d3452",
+      "desc": "Al Paso Restaurante 27",
+      "monto": 20,
+      "fecha": "2026-07-20",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f820a217d129a5",
+      "desc": "DLC*Temucom",
+      "monto": 277.26,
+      "fecha": "2026-07-20",
+      "cat": "ecommerce"
+    },
+    {
+      "id": "yape-19f824977a778df6",
+      "desc": "Yape - Allison Del",
+      "monto": 40,
+      "fecha": "2026-07-20",
+      "cat": "boda"
+    },
+    {
+      "id": "bcp-19f85b84a001ef92",
+      "desc": "IZI*Bocasion Torre Begoni",
+      "monto": 14,
+      "fecha": "2026-07-21",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f873230c3b15fa",
+      "desc": "IZI*El Paisita",
+      "monto": 21.2,
+      "fecha": "2026-07-21",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "yape-19f84c025bf3519c",
+      "desc": "Yape - Jhony Red",
+      "monto": 80,
+      "fecha": "2026-07-21",
+      "cat": "lavado_auto"
+    },
+    {
+      "id": "bcp-19f8a7076f465da4",
+      "desc": "Vendomatica",
+      "monto": 2.5,
+      "fecha": "2026-07-22",
+      "cat": "snacks"
+    },
+    {
+      "id": "bcp-19f8ae01a760ca19",
+      "desc": "IZI*Bocasion Torre Begoni",
+      "monto": 14,
+      "fecha": "2026-07-22",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f8b31b602b9740",
+      "desc": "Dermotienda Paseo Begonias",
+      "monto": 263.84,
+      "fecha": "2026-07-22",
+      "cat": "farmacia"
+    },
+    {
+      "id": "bcp-19f8c151ce5b7344",
+      "desc": "IKF 43 Fresnos",
+      "monto": 97.4,
+      "fecha": "2026-07-22",
+      "cat": "farmacia"
+    },
+    {
+      "id": "bcp-19f8c487bf72afed",
+      "desc": "PedidosYa - Tai Loy",
+      "monto": 63.6,
+      "fecha": "2026-07-22",
+      "cat": "gastos_varios"
+    },
+    {
+      "id": "bcp-19f8f30b76dec72d",
+      "desc": "Rappi ($7.67)",
+      "monto": 26.08,
+      "fecha": "2026-07-23",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f8f3c4984e2101",
+      "desc": "Rappi ($2.19)",
+      "monto": 7.45,
+      "fecha": "2026-07-23",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f8fb51de4011d8",
+      "desc": "Plin - Josue Melquisedec",
+      "monto": 500,
+      "fecha": "2026-07-23",
+      "cat": "transf_terceros"
+    },
+    {
+      "id": "bcp-19f8fb5484ecbf9f",
+      "desc": "Plin - Josue Melquisedec",
+      "monto": 200,
+      "fecha": "2026-07-23",
+      "cat": "transf_terceros"
+    },
+    {
+      "id": "bcp-19f8fcea9ac80e82",
+      "desc": "Servicentro Santa Cecilia (Grifo)",
+      "monto": 60,
+      "fecha": "2026-07-23",
+      "cat": "gasolina"
+    },
+    {
+      "id": "bcp-19f9032848453ba4",
+      "desc": "Plin - Isabel Estelita Sa",
+      "monto": 20,
+      "fecha": "2026-07-23",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f90171c0cd5e90",
+      "desc": "PYU*Cabify",
+      "monto": 10.75,
+      "fecha": "2026-07-23",
+      "cat": "transporte"
+    },
+    {
+      "id": "bcp-19f90431e8335691",
+      "desc": "Magic Auto Spa",
+      "monto": 40,
+      "fecha": "2026-07-23",
+      "cat": "lavado_auto"
+    },
+    {
+      "id": "bcp-19f914305f602a8b",
+      "desc": "Plin - Victor Hernan Guil",
+      "monto": 2.4,
+      "fecha": "2026-07-23",
+      "cat": "snacks"
+    },
+    {
+      "id": "bcp-19f954521f91e917",
+      "desc": "Al Paso Restaurante 27",
+      "monto": 20,
+      "fecha": "2026-07-24",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f96f0345f0d7ab",
+      "desc": "PedidosYa - Market",
+      "monto": 35,
+      "fecha": "2026-07-24",
+      "cat": "restaurantes"
+    },
+    {
+      "id": "bcp-19f99e1d7b2cbb42",
+      "desc": "Superm Metro San Felipe",
+      "monto": 2.5,
+      "fecha": "2026-07-25",
+      "cat": "supermercado"
     }
   ],
   "patrimonio": [],
