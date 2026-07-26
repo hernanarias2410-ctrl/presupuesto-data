@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-25T20:12:02.554Z",
+  "exportedAt": "2026-07-26T23:00:21.713Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -414,7 +414,7 @@
       "desc": "Win Internet",
       "monto": 189.13,
       "fecha": "2026-07-14",
-      "cat": "internet_depa"
+      "cat": "internet_papas"
     },
     {
       "id": "bcp-19f5c3bbb92e9cb2",
@@ -688,6 +688,13 @@
       "monto": 2.5,
       "fecha": "2026-07-25",
       "cat": "supermercado"
+    },
+    {
+      "id": "bcp-19f7308408163533",
+      "desc": "Yapeo recibido - Erika Bajalqui",
+      "monto": 71,
+      "fecha": "2026-07-17",
+      "cat": "otros_ing"
     }
   ],
   "patrimonio": [],
@@ -701,7 +708,7 @@
       "otros_ing": 0,
       "retiro_afp": 0,
       "bono": 0,
-      "ahorro_mensual": 7003,
+      "ahorro_mensual": 5182,
       "inversion_mensual": 0,
       "alquiler": 3890,
       "arbitrios": 0,
@@ -714,10 +721,10 @@
       "limpieza": 160,
       "luz": 80,
       "gas": 5,
-      "internet_depa": 60,
-      "internet_papas": 120,
+      "internet_depa": 11,
+      "internet_papas": 190,
       "telefono": 75,
-      "gym": 0,
+      "gym": 160,
       "spotify": 27,
       "donaciones": 50,
       "youtube": 20,
@@ -726,22 +733,22 @@
       "disney": 71,
       "netflix": 0,
       "supermercado": 550,
-      "restaurantes": 1000,
-      "snacks": 200,
+      "restaurantes": 1200,
+      "snacks": 20,
       "gasolina": 350,
       "lavado_auto": 100,
       "estacionamiento": 40,
-      "seguro_auto": 170,
+      "seguro_auto": 140,
       "revision_tecnica": 0,
       "mant_vehicular": 0,
       "peluqueria": 100,
       "cine": 300,
       "farmacia": 419,
       "sicologa": 0,
-      "transporte": 150,
-      "gastos_varios": 600,
-      "ecommerce": 100,
-      "boda": 1560,
+      "transporte": 60,
+      "gastos_varios": 2000,
+      "ecommerce": 300,
+      "boda": 1700,
       "pasaje_avion": 0,
       "compra_iphone": 0
     },
