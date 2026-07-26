@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-26T23:00:21.713Z",
+  "exportedAt": "2026-07-26T23:15:39.089Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -417,13 +417,6 @@
       "cat": "internet_papas"
     },
     {
-      "id": "bcp-19f5c3bbb92e9cb2",
-      "desc": "Yapeo S/40 - Julia Aza*",
-      "monto": 40,
-      "fecha": "2026-07-13",
-      "cat": "gastos_varios"
-    },
-    {
       "id": "bcp-19f6371cf021f8ec",
       "desc": "Pago tarjeta propia BCP",
       "monto": 8864.92,
@@ -492,13 +485,6 @@
       "monto": 52,
       "fecha": "2026-07-16",
       "cat": "restaurantes"
-    },
-    {
-      "id": "yape-19f6904c3991c3ca",
-      "desc": "Yape - Allison Del",
-      "monto": 100,
-      "fecha": "2026-07-15",
-      "cat": "boda"
     },
     {
       "id": "bcp-19f7307086529da1",
@@ -695,6 +681,174 @@
       "monto": 71,
       "fecha": "2026-07-17",
       "cat": "otros_ing"
+    },
+    {
+      "id": "bcp-19f1e8d264eb02e3",
+      "desc": "Transferencia a otros bancos",
+      "monto": 3246,
+      "fecha": "2026-07-01",
+      "cat": "transf_propias",
+      "nota": "Revisar destino"
+    },
+    {
+      "id": "bcp-19f1ea0023cfbfff",
+      "desc": "Transferencia a Terceros BCP",
+      "monto": 573.95,
+      "fecha": "2026-07-01",
+      "cat": "transf_terceros",
+      "nota": "Destinatario sin identificar"
+    },
+    {
+      "id": "bcp-19f2313b412a5c6c",
+      "desc": "Transferencia a Terceros BCP",
+      "monto": 855,
+      "fecha": "2026-07-02",
+      "cat": "transf_terceros",
+      "nota": "Destinatario sin identificar"
+    },
+    {
+      "id": "bcp-19f231b3daa428de",
+      "desc": "Pago tarjeta propia BCP ($135.91)",
+      "monto": 462.09,
+      "fecha": "2026-07-02",
+      "cat": "pago_tarjetas",
+      "nota": "Cuenta digital"
+    },
+    {
+      "id": "bcp-19f231bbf0f16759",
+      "desc": "Pago tarjeta propia BCP",
+      "monto": 4000,
+      "fecha": "2026-07-02",
+      "cat": "pago_tarjetas",
+      "nota": "Cuenta sueldo"
+    },
+    {
+      "id": "bcp-19f345f6f1b3f102",
+      "desc": "Transferencia entre mis cuentas",
+      "monto": 400,
+      "fecha": "2026-07-05",
+      "cat": "transf_propias",
+      "nota": ""
+    },
+    {
+      "id": "bcp-19f39b9106f442bc",
+      "desc": "Transferencia a Terceros - Moran Castillo Luis Horacio",
+      "monto": 500,
+      "fecha": "2026-07-06",
+      "cat": "transf_terceros",
+      "nota": ""
+    },
+    {
+      "id": "yape-19f3f6fbd91d1b81",
+      "desc": "Yape S/ 100",
+      "monto": 100,
+      "fecha": "2026-07-07",
+      "cat": "",
+      "nota": "Destinatario sin identificar - correo sin abrir"
+    },
+    {
+      "id": "yape-19f52f063df858f9",
+      "desc": "Yape - Veronica Jar*",
+      "monto": 50,
+      "fecha": "2026-07-11",
+      "cat": "",
+      "nota": "Veronica Jar* (...415)"
+    },
+    {
+      "id": "bcp-19f7b27bd51168d2",
+      "desc": "Pago tarjeta propia BCP",
+      "monto": 6452.51,
+      "fecha": "2026-07-19",
+      "cat": "pago_tarjetas",
+      "nota": "Cuenta sueldo"
+    },
+    {
+      "id": "bcp-19f7b2823c907dee",
+      "desc": "Pago tarjeta propia BCP ($26.81)",
+      "monto": 91.15,
+      "fecha": "2026-07-19",
+      "cat": "pago_tarjetas",
+      "nota": "Cuenta digital"
+    },
+    {
+      "id": "bcp-19f7ffa08b7ab79e",
+      "desc": "Transferencia a otros bancos",
+      "monto": 20000,
+      "fecha": "2026-07-20",
+      "cat": "transf_propias",
+      "nota": "Posible abono CTS plan hipotecario - confirmar"
+    },
+    {
+      "id": "bcp-19f818eb9a65d1e4",
+      "desc": "Transferencia a otros bancos ($556.07)",
+      "monto": 1890.64,
+      "fecha": "2026-07-20",
+      "cat": "transf_propias",
+      "nota": "Posible abono plan hipotecario - confirmar"
+    },
+    {
+      "id": "bcp-19f80f6358180653",
+      "desc": "Transferencia entre mis cuentas ($510.00)",
+      "monto": 1746.75,
+      "fecha": "2026-07-20",
+      "cat": "transf_propias",
+      "nota": "TC real 3.425 del estado de cuenta"
+    },
+    {
+      "id": "bcp-19f8fb348613461e",
+      "desc": "Transferencia entre mis cuentas",
+      "monto": 1000,
+      "fecha": "2026-07-23",
+      "cat": "transf_propias",
+      "nota": ""
+    },
+    {
+      "id": "bcp-19f9a2ba66ad45ad",
+      "desc": "DLC*Temucom",
+      "monto": 126.84,
+      "fecha": "2026-07-25",
+      "cat": "ecommerce",
+      "nota": ""
+    },
+    {
+      "id": "bcp-19f9a4a71d2959fa",
+      "desc": "Rappi ($17.94)",
+      "monto": 61,
+      "fecha": "2026-07-25",
+      "cat": "restaurantes",
+      "nota": ""
+    },
+    {
+      "id": "bcp-19f9af0d59980f6b",
+      "desc": "PedidosYa - Cremoladas",
+      "monto": 15.6,
+      "fecha": "2026-07-25",
+      "cat": "restaurantes",
+      "nota": ""
+    },
+    {
+      "id": "bcp-19f9bf75fc420b2e",
+      "desc": "EBN*Spotify",
+      "monto": 26.9,
+      "fecha": "2026-07-25",
+      "cat": "spotify",
+      "nota": ""
+    },
+    {
+      "id": "bcp-19fa059c52668160",
+      "desc": "MF I10 Real Plaza Salaverry",
+      "monto": 47.9,
+      "fecha": "2026-07-26",
+      "cat": "farmacia",
+      "nota": ""
+    },
+    {
+      "id": "yape-19f9febc915a55fd",
+      "desc": "Yape - Josmell Mun*",
+      "monto": 60,
+      "fecha": "2026-07-26",
+      "cat": "",
+      "nota": "Josmell Mun* (...744) - destinatario nuevo"
     }
   ],
   "patrimonio": [],
