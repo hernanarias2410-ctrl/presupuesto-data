@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-26T23:18:21.565Z",
+  "exportedAt": "2026-07-26T23:55:19.332Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -239,7 +239,8 @@
       "desc": "MP*Dropthelabel",
       "monto": 217.8,
       "fecha": "2026-07-12",
-      "cat": "gastos_varios"
+      "cat": "gastos_varios",
+      "nota": "Polos"
     },
     {
       "id": "1784032770285",
@@ -375,13 +376,6 @@
       "cat": "gratificacion"
     },
     {
-      "id": "bcp-19f5c3-yape-julia",
-      "desc": "Yapeo a Julia Aza*",
-      "monto": 40,
-      "fecha": "2026-07-13",
-      "cat": "gastos_varios"
-    },
-    {
       "id": "bcp-19f5c8d5e9ce355b",
       "desc": "IZI*Bocasion Torre Begoni",
       "monto": 14,
@@ -457,13 +451,6 @@
       "monto": 59.7,
       "fecha": "2026-07-15",
       "cat": "restaurantes"
-    },
-    {
-      "id": "bcp-19f6904c3991c3ca",
-      "desc": "Yapeo S/100 - Allison Del*",
-      "monto": 100,
-      "fecha": "2026-07-15",
-      "cat": "boda"
     },
     {
       "id": "bcp-19f6a3dfc6237f16",
@@ -743,7 +730,7 @@
       "desc": "Yape S/ 100",
       "monto": 100,
       "fecha": "2026-07-07",
-      "cat": "",
+      "cat": "transf_terceros",
       "nota": "Destinatario sin identificar - correo sin abrir"
     },
     {
@@ -751,7 +738,7 @@
       "desc": "Yape - Veronica Jar*",
       "monto": 50,
       "fecha": "2026-07-11",
-      "cat": "",
+      "cat": "transf_terceros",
       "nota": "Veronica Jar* (...415)"
     },
     {
@@ -776,15 +763,15 @@
       "monto": 20000,
       "fecha": "2026-07-20",
       "cat": "transf_propias",
-      "nota": "Posible abono CTS plan hipotecario - confirmar"
+      "nota": "Aabono CTS plan hipotecario - confirmar"
     },
     {
       "id": "bcp-19f818eb9a65d1e4",
       "desc": "Transferencia a otros bancos ($556.07)",
       "monto": 1890.64,
       "fecha": "2026-07-20",
-      "cat": "transf_propias",
-      "nota": "Posible abono plan hipotecario - confirmar"
+      "cat": "gastos_varios",
+      "nota": "Hotel RIU_Jorge"
     },
     {
       "id": "bcp-19f80f6358180653",
@@ -840,15 +827,31 @@
       "monto": 47.9,
       "fecha": "2026-07-26",
       "cat": "farmacia",
-      "nota": ""
+      "nota": "Shampoo JB"
     },
     {
       "id": "yape-19f9febc915a55fd",
       "desc": "Yape - Josmell Mun*",
       "monto": 60,
       "fecha": "2026-07-26",
-      "cat": "",
-      "nota": "Josmell Mun* (...744) - destinatario nuevo"
+      "cat": "restaurantes",
+      "nota": "Apoyo campaña"
+    },
+    {
+      "id": "yape-19f5c3bbb92e9cb2",
+      "desc": "Yape - Julia Aza*",
+      "monto": 40,
+      "fecha": "2026-07-13",
+      "cat": "gastos_varios",
+      "nota": "Julia Aza* (...933)"
+    },
+    {
+      "id": "yape-19f6904c3991c3ca",
+      "desc": "Yape - Allison Del*",
+      "monto": 100,
+      "fecha": "2026-07-15",
+      "cat": "boda",
+      "nota": "Allison Del* (...156)"
     }
   ],
   "patrimonio": [],
