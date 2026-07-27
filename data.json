@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-27T19:39:05.495Z",
+  "exportedAt": "2026-07-27T19:46:31.857Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -852,6 +852,24 @@
       "fecha": "2026-07-15",
       "cat": "boda",
       "nota": "Allison Del* (...156)"
+    },
+    {
+      "id": "bcp-19fa10317e3e320f",
+      "desc": "DLC*PedidosYa Delicass Sa",
+      "monto": 24.6,
+      "fecha": "2026-07-26",
+      "cat": "restaurantes",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fa1073c387bd6b",
+      "desc": "DLC*PedidosYa Market",
+      "monto": 35,
+      "fecha": "2026-07-26",
+      "cat": "restaurantes",
+      "nota": "",
+      "mesImputacion": ""
     }
   ],
   "patrimonio": [],
