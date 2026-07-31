@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-31T04:30:35.457Z",
+  "exportedAt": "2026-07-31T04:34:47.526Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -1109,7 +1109,7 @@
   "patrimonio": [
     {
       "id": "1785472142477",
-      "fecha": "2026-07-31",
+      "fecha": "2026-07-30",
       "ahorro": 31827,
       "inversion": 6965,
       "posiciones": [
