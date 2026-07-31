@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-31T04:28:53.682Z",
+  "exportedAt": "2026-07-31T04:30:35.457Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -1106,7 +1106,37 @@
       "mesImputacion": ""
     }
   ],
-  "patrimonio": [],
+  "patrimonio": [
+    {
+      "id": "1785472142477",
+      "fecha": "2026-07-31",
+      "ahorro": 31827,
+      "inversion": 6965,
+      "posiciones": [
+        {
+          "id": "ms8g0oiewaj9v",
+          "nombre": "BCP",
+          "tipo": "ahorro",
+          "liquidez": "disponible",
+          "monto": 27427
+        },
+        {
+          "id": "ms8g1bq73l6x5",
+          "nombre": "Cooperativa",
+          "tipo": "ahorro",
+          "liquidez": "inmovilizado",
+          "monto": 4400
+        },
+        {
+          "id": "ms8g1orh0gmur",
+          "nombre": "Acciones Trii",
+          "tipo": "inversion",
+          "liquidez": "inmovilizado",
+          "monto": 6965
+        }
+      ]
+    }
+  ],
   "budgets": {
     "2026-07": {
       "sueldo": 9200,
