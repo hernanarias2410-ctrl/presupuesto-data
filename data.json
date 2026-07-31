@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-28T18:35:54.983Z",
+  "exportedAt": "2026-07-31T04:22:58.972Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -870,6 +870,69 @@
       "cat": "restaurantes",
       "nota": "",
       "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fa5f2e58f0664a",
+      "desc": "DLC*RAPPI PERU",
+      "monto": 34.7,
+      "fecha": "2026-07-27",
+      "cat": "restaurantes",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fa93d3d60ac325",
+      "desc": "Superm Metro San Felipe",
+      "monto": 46.6,
+      "fecha": "2026-07-28",
+      "cat": "supermercado",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fa997ca6e92316",
+      "desc": "Transferencia a otros bancos",
+      "monto": 1620,
+      "fecha": "2026-07-28",
+      "cat": "hipoteca",
+      "nota": "Comision S/ 4.80 no incluida en el monto",
+      "mesImputacion": "2026-08"
+    },
+    {
+      "id": "bcp-19fa9f9d90ca6e18",
+      "desc": "Transferencia a Terceros BCP",
+      "monto": 2850,
+      "fecha": "2026-07-28",
+      "cat": "alquiler",
+      "nota": "Posible alquiler Rio de Janeiro - revisar",
+      "mesImputacion": "2026-08"
+    },
+    {
+      "id": "bcp-19fa9fb903bbfed3",
+      "desc": "Transferencia a Ana gabriela",
+      "monto": 498,
+      "fecha": "2026-07-28",
+      "cat": "comida_papas",
+      "nota": "",
+      "mesImputacion": "2026-08"
+    },
+    {
+      "id": "bcp-19fa9fc559b0bc18",
+      "desc": "Entel Peru",
+      "monto": 92.9,
+      "fecha": "2026-07-28",
+      "cat": "telefono",
+      "nota": "Pago de servicio banca movil BCP - titular Hernan Angel Arias",
+      "mesImputacion": "2026-08"
+    },
+    {
+      "id": "bcp-19faa00a1d52c74d",
+      "desc": "Web Calidda Gas Natural",
+      "monto": 11.3,
+      "fecha": "2026-07-28",
+      "cat": "gas",
+      "nota": "",
+      "mesImputacion": "2026-08"
     }
   ],
   "patrimonio": [],
@@ -936,7 +999,7 @@
       "otros_ing": 0,
       "retiro_afp": 0,
       "bono": 0,
-      "ahorro_mensual": -34696.14,
+      "ahorro_mensual": -34686.14,
       "inversion_mensual": 0,
       "alquiler": 2850,
       "arbitrios": 0,
@@ -952,14 +1015,14 @@
       "internet_depa": 60,
       "internet_papas": 120,
       "telefono": 93,
-      "gym": 110,
+      "gym": 0,
       "spotify": 27,
       "donaciones": 50,
       "youtube": 20,
       "google_one": 13,
       "gemini": 74,
       "disney": 69,
-      "netflix": 0,
+      "netflix": 100,
       "supermercado": 500,
       "restaurantes": 1000,
       "snacks": 200,
