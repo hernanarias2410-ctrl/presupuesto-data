@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-31T04:22:58.972Z",
+  "exportedAt": "2026-07-31T04:28:53.682Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -933,6 +933,177 @@
       "cat": "gas",
       "nota": "",
       "mesImputacion": "2026-08"
+    },
+    {
+      "id": "bcp-19faa2ae45896ccc",
+      "desc": "BCP*Bodega Alessandra",
+      "monto": 2,
+      "fecha": "2026-07-28",
+      "cat": "snacks",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19faabb067fd829e",
+      "desc": "El Puntito Dulce",
+      "monto": 23,
+      "fecha": "2026-07-28",
+      "cat": "restaurantes",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19faae5bba297f08",
+      "desc": "IZI*Dulceria La Ollita",
+      "monto": 46,
+      "fecha": "2026-07-28",
+      "cat": "restaurantes",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19faafd632925b98",
+      "desc": "DLC*PedidosYa Envios Lima",
+      "monto": 9.4,
+      "fecha": "2026-07-28",
+      "cat": "restaurantes",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fab1dd4dfb8437",
+      "desc": "Estacion Reducto Playa",
+      "monto": 50,
+      "fecha": "2026-07-28",
+      "cat": "gasolina",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19faf1186d331c2b",
+      "desc": "Apple.com/Bill ($3.90)",
+      "monto": 13.26,
+      "fecha": "2026-07-29",
+      "cat": "gastos_varios",
+      "nota": "USD 3.90 @3.40",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19faf25ff6e52ff8",
+      "desc": "Apple.com/Bill ($7.54)",
+      "monto": 25.64,
+      "fecha": "2026-07-29",
+      "cat": "gastos_varios",
+      "nota": "USD 7.54 @3.40",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19faf36d4e4a795c",
+      "desc": "Apple.com/Bill ($12.08)",
+      "monto": 41.07,
+      "fecha": "2026-07-29",
+      "cat": "gastos_varios",
+      "nota": "USD 12.08 @3.40",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fafa84fa657ca8",
+      "desc": "Cineplanet Salaverry",
+      "monto": 28.5,
+      "fecha": "2026-07-29",
+      "cat": "cine",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fb0cb9a7e4b7e7",
+      "desc": "DLC*RAPPI PERU",
+      "monto": 60.29,
+      "fecha": "2026-07-29",
+      "cat": "restaurantes",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fb3a37735b290d",
+      "desc": "Vendomatica",
+      "monto": 2.5,
+      "fecha": "2026-07-30",
+      "cat": "snacks",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fb3f283661f116",
+      "desc": "Experian Peru SAC",
+      "monto": 34.9,
+      "fecha": "2026-07-30",
+      "cat": "gastos_varios",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fb40f989086d41",
+      "desc": "Bocasion",
+      "monto": 14,
+      "fecha": "2026-07-30",
+      "cat": "restaurantes",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fb44b19f0badfd",
+      "desc": "OXXO Fernandini",
+      "monto": 1.5,
+      "fecha": "2026-07-30",
+      "cat": "snacks",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fb64083e129331",
+      "desc": "Transferencia a Terceros BCP",
+      "monto": 577.03,
+      "fecha": "2026-07-30",
+      "cat": "seguro_papas",
+      "nota": "",
+      "mesImputacion": "2026-08"
+    },
+    {
+      "id": "bcp-19fb657c12f64ed9",
+      "desc": "Yapeo recibido - Tirado Soliz Rocio Beatriz",
+      "monto": 127.16,
+      "fecha": "2026-07-30",
+      "cat": "otros_ing",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fb661df96c790b",
+      "desc": "Transferencia entre mis cuentas ($35.00)",
+      "monto": 119.67,
+      "fecha": "2026-07-30",
+      "cat": "transf_propias",
+      "nota": "USD 35.00 @3.4190 (TC del correo)",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fb66253f006c7d",
+      "desc": "Pago tarjeta propia BCP",
+      "monto": 1749.29,
+      "fecha": "2026-07-30",
+      "cat": "pago_tarjetas",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fb662a8ddebdec",
+      "desc": "Pago tarjeta propia BCP ($68.92)",
+      "monto": 234.33,
+      "fecha": "2026-07-30",
+      "cat": "pago_tarjetas",
+      "nota": "USD 68.92 @3.40",
+      "mesImputacion": ""
     }
   ],
   "patrimonio": [],
