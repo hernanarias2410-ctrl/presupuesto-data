@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-07-31T14:12:40.329Z",
+  "exportedAt": "2026-08-05T21:46:02.553Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -1104,6 +1104,139 @@
       "cat": "pago_tarjetas",
       "nota": "USD 68.92 @3.40",
       "mesImputacion": ""
+    },
+    {
+      "id": "1785507988706",
+      "desc": "Sueldo",
+      "monto": 9200,
+      "fecha": "2026-07-31",
+      "cat": "sueldo"
+    },
+    {
+      "id": "bcp-19fb8a9507953838",
+      "desc": "Web Calidda Gas Natural",
+      "monto": 407.88,
+      "fecha": "2026-07-31",
+      "cat": "gastos_varios",
+      "nota": "regularizacion gasto Calidda",
+      "mesImputacion": "2026-08"
+    },
+    {
+      "id": "bcp-19fb9685762877a6",
+      "desc": "Al Paso Restaurante 27",
+      "monto": 20,
+      "fecha": "2026-07-31",
+      "cat": "restaurantes",
+      "nota": "",
+      "mesImputacion": "2026-08"
+    },
+    {
+      "id": "bcp-19fba5ff426e5494",
+      "desc": "No Hay Sin Suerte",
+      "monto": 60,
+      "fecha": "2026-07-31",
+      "cat": "gastos_varios",
+      "nota": "Comercio nuevo - confirmar categoria",
+      "mesImputacion": "2026-08"
+    },
+    {
+      "id": "bcp-19fba6360c1b9fe5",
+      "desc": "PYU*PCHUJOY",
+      "monto": 99,
+      "fecha": "2026-07-31",
+      "cat": "gastos_varios",
+      "nota": "Comercio nuevo (pasarela PayU) - confirmar categoria",
+      "mesImputacion": "2026-08"
+    },
+    {
+      "id": "bcp-19fbb66adaebe4d1",
+      "desc": "Experian Peru SAC",
+      "monto": 34.9,
+      "fecha": "2026-07-31",
+      "cat": "gastos_varios",
+      "nota": "Gasto reporte",
+      "mesImputacion": "2026-08"
+    },
+    {
+      "id": "yape-19fb9396318c68db",
+      "desc": "Yapeo enviado",
+      "monto": 83,
+      "fecha": "2026-07-31",
+      "cat": "limpieza",
+      "nota": "iris",
+      "mesImputacion": "2026-08"
+    },
+    {
+      "id": "bcp-19fbcce66ca0107d",
+      "desc": "Pacifico Auto ($18.20)",
+      "monto": 61.88,
+      "fecha": "2026-08-01",
+      "cat": "seguro_auto",
+      "nota": "Convertido a TC 3.40",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fbedb93af02952",
+      "desc": "Google YouTubePremium ($5.44)",
+      "monto": 18.5,
+      "fecha": "2026-08-01",
+      "cat": "youtube",
+      "nota": "Convertido a TC 3.40",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fbfa3aa7481f8f",
+      "desc": "PYU*Cabify",
+      "monto": 11.9,
+      "fecha": "2026-08-01",
+      "cat": "transporte",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fc0451d217f2fd",
+      "desc": "052 PVEA Brasil",
+      "monto": 124.86,
+      "fecha": "2026-08-01",
+      "cat": "supermercado",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fc0962f57b595c",
+      "desc": "PLIN-HUGO EDUARDO ESCOB",
+      "monto": 41,
+      "fecha": "2026-08-01",
+      "cat": "cine",
+      "nota": "Destinatario Plin nuevo - confirmar categoria",
+      "mesImputacion": ""
+    },
+    {
+      "id": "yape-19fbec9a6493a8fc",
+      "desc": "Yapeo enviado",
+      "monto": 25,
+      "fecha": "2026-08-01",
+      "cat": "restaurantes",
+      "nota": "almuerzo",
+      "mesImputacion": ""
+    },
+    {
+      "id": "yape-19fbf0900b6eab2c",
+      "desc": "Yapeo enviado",
+      "monto": 18,
+      "fecha": "2026-08-01",
+      "cat": "estacionamiento",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "yape-19fc0957ebb723ce",
+      "desc": "Yapeo enviado",
+      "monto": 16.71,
+      "fecha": "2026-08-01",
+      "cat": "restaurantes",
+      "nota": "cena 7 sopas",
+      "mesImputacion": ""
     }
   ],
   "patrimonio": [
@@ -1253,7 +1386,7 @@
       "otros_ing": 0,
       "retiro_afp": 0,
       "bono": 0,
-      "ahorro_mensual": 1206.8600000000006,
+      "ahorro_mensual": 1216.8600000000006,
       "inversion_mensual": 0,
       "alquiler": 2600,
       "arbitrios": 0,
@@ -1262,7 +1395,7 @@
       "predial": 0,
       "comida_papas": 450,
       "seguro_papas": 1000,
-      "mant_depa": 260,
+      "mant_depa": 250,
       "limpieza": 160,
       "luz": 80,
       "gas": 20,
