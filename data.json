@@ -1,7 +1,7 @@
 {
   "app": "presupuesto-personal-hernan",
   "version": 1,
-  "exportedAt": "2026-08-05T21:46:08.033Z",
+  "exportedAt": "2026-08-05T21:51:01.199Z",
   "transactions": [
     {
       "id": "bcp-19f1eac75ee987d1",
@@ -1236,6 +1236,141 @@
       "fecha": "2026-08-01",
       "cat": "restaurantes",
       "nota": "cena 7 sopas",
+      "mesImputacion": ""
+    },
+    {
+      "id": "yape-19fc2f60c8fd5781",
+      "desc": "Yapeo enviado - Angel Ari*",
+      "monto": 61.8,
+      "fecha": "2026-08-02",
+      "cat": "supermercado",
+      "nota": "mercado Pollo",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fc452f075808d2",
+      "desc": "ES Arequipa",
+      "monto": 205.27,
+      "fecha": "2026-08-02",
+      "cat": "gasolina",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "yape-19fc459708b07b9d",
+      "desc": "Yapeo enviado - FLOWERCORP SAC",
+      "monto": 60,
+      "fecha": "2026-08-02",
+      "cat": "gastos_varios",
+      "nota": "Floreria",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fc5404086f4d91",
+      "desc": "Johnny Rockets",
+      "monto": 70.95,
+      "fecha": "2026-08-02",
+      "cat": "restaurantes",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fc8a63add440f9",
+      "desc": "IZI*BOCASION TORRE BEGONI",
+      "monto": 14,
+      "fecha": "2026-08-03",
+      "cat": "restaurantes",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fc976936592d49",
+      "desc": "Vendomatica",
+      "monto": 2.2,
+      "fecha": "2026-08-03",
+      "cat": "snacks",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "yape-19fcccd049733e75",
+      "desc": "Yapeo enviado - Jhony Red*",
+      "monto": 60,
+      "fecha": "2026-08-04",
+      "cat": "lavado_auto",
+      "nota": "Jhony Red*",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fce4b2d789c688",
+      "desc": "PLIN-Marco Alonso Barre",
+      "monto": 89.58,
+      "fecha": "2026-08-04",
+      "cat": "restaurantes",
+      "nota": "Restaurante Arequipeño",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fce741232ad4be",
+      "desc": "PYU*Cabify",
+      "monto": 16.66,
+      "fecha": "2026-08-04",
+      "cat": "transporte",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fcefe31713eb05",
+      "desc": "Transferencia a Terceros BCP - Cordova Sonia-o-alegre L.",
+      "monto": 60,
+      "fecha": "2026-08-04",
+      "cat": "gastos_varios",
+      "nota": "Pago Cambio Valvula Damasco",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fcf5afa20168bf",
+      "desc": "Diego de Almagro",
+      "monto": 6.49,
+      "fecha": "2026-08-04",
+      "cat": "snacks",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fcf78f958c01e9",
+      "desc": "Google One ($22.52)",
+      "monto": 76.57,
+      "fecha": "2026-08-04",
+      "cat": "google_one",
+      "nota": "Convertido a TC 3.40",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fd29a9ad159504",
+      "desc": "Vendomatica",
+      "monto": 3,
+      "fecha": "2026-08-05",
+      "cat": "snacks",
+      "nota": "",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fd2e64ecce2dec",
+      "desc": "PLIN-Marco Alonso Barre",
+      "monto": 14,
+      "fecha": "2026-08-05",
+      "cat": "restaurantes",
+      "nota": "BOCASION",
+      "mesImputacion": ""
+    },
+    {
+      "id": "bcp-19fd394971ce0375",
+      "desc": "Oxxo Fernandini",
+      "monto": 5.99,
+      "fecha": "2026-08-05",
+      "cat": "snacks",
+      "nota": "",
       "mesImputacion": ""
     }
   ],
